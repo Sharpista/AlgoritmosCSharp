@@ -1,0 +1,5 @@
+C:\Users\alexa\source\repos\EstruturaSequencial\EstrtuturaCondicional2\bin\Debug\EstrtuturaCondicional2.exe.config
+C:\Users\alexa\source\repos\EstruturaSequencial\EstrtuturaCondicional2\bin\Debug\EstrtuturaCondicional2.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstrtuturaCondicional2\bin\Debug\EstrtuturaCondicional2.pdb
+C:\Users\alexa\source\repos\EstruturaSequencial\EstrtuturaCondicional2\obj\Debug\EstrtuturaCondicional2.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstrtuturaCondicional2\obj\Debug\EstrtuturaCondicional2.pdb

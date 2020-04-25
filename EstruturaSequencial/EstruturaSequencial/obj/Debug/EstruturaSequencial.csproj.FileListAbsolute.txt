@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\bin\Debug\EstruturaSequencial.exe.config
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\bin\Debug\EstruturaSequencial.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\bin\Debug\EstruturaSequencial.pdb
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\obj\Debug\EstruturaSequencial.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\obj\Debug\EstruturaSequencial.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaSequencial\obj\Debug\EstruturaSequencial.pdb

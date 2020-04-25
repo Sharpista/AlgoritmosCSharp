@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe.config
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\bin\Debug\EstruturaCondicional.pdb
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\obj\Debug\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\obj\Debug\EstruturaCondicional.exe
+C:\Users\alexa\source\repos\EstruturaSequencial\EstruturaCondicional\obj\Debug\EstruturaCondicional.pdb

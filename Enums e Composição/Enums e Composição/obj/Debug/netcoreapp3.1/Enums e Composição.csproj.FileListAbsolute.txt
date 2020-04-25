@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.exe
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.deps.json
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.runtimeconfig.json
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.dll
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\bin\Debug\netcoreapp3.1\Enums e Composição.pdb
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\obj\Debug\netcoreapp3.1\Enums e Composição.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\obj\Debug\netcoreapp3.1\Enums e Composição.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\obj\Debug\netcoreapp3.1\Enums e Composição.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\obj\Debug\netcoreapp3.1\Enums e Composição.dll
+C:\Users\alexa\source\repos\Enums e Composição\Enums e Composição\obj\Debug\netcoreapp3.1\Enums e Composição.pdb
